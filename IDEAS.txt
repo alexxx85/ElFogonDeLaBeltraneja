@@ -1,0 +1,4 @@
+Página de bienvenida. Información del restaurante.
+Menú. Se incluirá menú. Posible opción de realización de reservas.
+Sobre nosotros. Información sobre dueños y personal del restaurante.
+Contacto. Números de contacto y email.
